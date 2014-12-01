@@ -1,0 +1,11 @@
+name: deluxjs
+description: >
+  A library useful for applications or for sharing on pub.dartlang.org.
+version: 0.0.1
+author: Claire Sarsam <csarsam@gmail.com>
+homepage: https://github.com/clairesarsam-wf/dart-event-emitter
+dependencies:
+  event_emitter:
+    git: git@github.com:clairesarsam-wf/dart-event-emitter.git
+dev_dependencies:
+  unittest: any
